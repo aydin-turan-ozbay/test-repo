@@ -1,2 +1,2 @@
 # test-repo
-I am testing my repo
+I am testing my repository on GitHub
